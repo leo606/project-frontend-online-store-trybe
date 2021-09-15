@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/project-frontend-online-store-trybe/static/css/main.496fcf31.chunk.css",
+    "main.js": "/project-frontend-online-store-trybe/static/js/main.7e6caef3.chunk.js",
+    "main.js.map": "/project-frontend-online-store-trybe/static/js/main.7e6caef3.chunk.js.map",
+    "runtime-main.js": "/project-frontend-online-store-trybe/static/js/runtime-main.b6232d3f.js",
+    "runtime-main.js.map": "/project-frontend-online-store-trybe/static/js/runtime-main.b6232d3f.js.map",
+    "static/js/2.4777a782.chunk.js": "/project-frontend-online-store-trybe/static/js/2.4777a782.chunk.js",
+    "static/js/2.4777a782.chunk.js.map": "/project-frontend-online-store-trybe/static/js/2.4777a782.chunk.js.map",
+    "index.html": "/project-frontend-online-store-trybe/index.html",
+    "precache-manifest.8d7158d06fc0e0979b483efd03582c97.js": "/project-frontend-online-store-trybe/precache-manifest.8d7158d06fc0e0979b483efd03582c97.js",
+    "service-worker.js": "/project-frontend-online-store-trybe/service-worker.js",
+    "static/css/main.496fcf31.chunk.css.map": "/project-frontend-online-store-trybe/static/css/main.496fcf31.chunk.css.map",
+    "static/js/2.4777a782.chunk.js.LICENSE.txt": "/project-frontend-online-store-trybe/static/js/2.4777a782.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/project-frontend-online-store-trybe/static/media/TipoPress-DgaW.89abd579.ttf",
+    "static/media/elo.png": "/project-frontend-online-store-trybe/static/media/elo.9217ca38.png",
+    "static/media/faustao-errou.gif": "/project-frontend-online-store-trybe/static/media/faustao-errou.aee1c181.gif",
+    "static/media/faustao.gif": "/project-frontend-online-store-trybe/static/media/faustao.545819e1.gif",
+    "static/media/master.png": "/project-frontend-online-store-trybe/static/media/master.4c4f5d3b.png",
+    "static/media/se_vira_logo.png": "/project-frontend-online-store-trybe/static/media/se_vira_logo.2c23636a.png",
+    "static/media/visa.png": "/project-frontend-online-store-trybe/static/media/visa.f7d8cd98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6232d3f.js",
+    "static/js/2.4777a782.chunk.js",
+    "static/css/main.496fcf31.chunk.css",
+    "static/js/main.7e6caef3.chunk.js"
+  ]
+}

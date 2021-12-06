@@ -14,9 +14,9 @@ Nesse projeto, as principais habilidades desenvolvidas foram:
 
 ## O que deverá ser desenvolvido
 
-Esse projeto foi feito em grupo com os integrantes: 
+Esse projeto foi feito em grupo com os integrantes: [Leonardo Ferreira](https://github.com/leo606), [Rodrigo Merlone](https://github.com/merlonedev), [Tiago Ornelas](https://github.com/tiagoornelas), [Gletison Ramos](https://github.com/gletisonjr), [Pedro H M Martins](https://github.com/martinsph) e [Bruno Augusto](https://github.com/claro-bruno).
 
-Neste projeto você criará uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo suas funcionalidades de acordo com demandas definidas em um quadro _Kanban_, em um cenário mais próximo ao do mercado de trabalho. A partir dessas demandas, teremos uma aplicação onde os usuários poderão:
+Neste projeto, foi feito uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo suas funcionalidades de acordo com demandas definidas em um quadro _Kanban_, em um cenário mais próximo ao do mercado de trabalho. A partir dessas demandas, teremos uma aplicação onde os usuários poderão:
   - Buscar produtos por termos e categorias a partir da _API do Mercado Livre_;
   - Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
   - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
